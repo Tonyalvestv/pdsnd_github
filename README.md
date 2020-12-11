@@ -8,7 +8,7 @@
 -This project is about creating a Remote Repository to showcase my work-
 
 ### Files used
-Files used:
+File used:
 BikeShare.py
 
 ### Credits
