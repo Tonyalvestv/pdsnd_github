@@ -5,7 +5,7 @@
 -Tony's Git Project-
 
 ### Description
-This project is about creating a Remote Repository to showcase my work.
+-This project is about creating a Remote Repository to showcase my work-
 
 ### Files used
 Files used:
