@@ -2,7 +2,7 @@
 12-11-2020
 
 ### Project Title
-Tony's Git Project
+-Tony's Git Project-
 
 ### Description
 This project is about creating a Remote Repository to showcase my work.
