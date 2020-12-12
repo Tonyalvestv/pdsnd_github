@@ -48,7 +48,7 @@ def get_filters():
             "Choose Month- all, or january, february, march, april, may, june: "
         ).lower()
         if month not in MONTH:
-            print("Check spelling, try again")
+            print("Check spelling, try again!")
         else:
             break
 
