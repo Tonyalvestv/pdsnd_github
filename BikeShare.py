@@ -38,7 +38,7 @@ def get_filters():
     while True:
         city = input("Choose City- Chicago, New York City or Washington: ").lower()
         if city.lower() not in CITY_DATA:
-            print("Check spelling, try again")
+            print("Check spelling, try again!")
         else:
             break
 
